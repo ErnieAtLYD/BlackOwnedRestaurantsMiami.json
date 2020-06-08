@@ -1,0 +1,10 @@
+{
+  "name": "myeats",
+  "version": "1.0.0",
+  "main": "myeats.js",
+  "license": "MIT",
+  "bin": "./myeats.js",
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

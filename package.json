@@ -1,0 +1,13 @@
+{
+  "name": "BlackOwnedRestaurantsMiami.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ErnieAtLYD/BlackOwnedRestaurantsMiami.json.git",
+  "author": "Ernie Hsiung <ernie@wyncode.co>",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "csv-parser": "^2.3.2",
+    "neat-csv": "^5.2.0"
+  }
+}
